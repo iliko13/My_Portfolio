@@ -20,7 +20,11 @@ const ProjectCard = () => {
           <img src={photo1} alt="site1" />
           <h2 className="project-title">Split-bills</h2>
           <div className="pro-details">
-            <p>This is Text</p>
+            <p>
+              Experience hassle-free bill sharing and simplified expense
+              division with our innovative split bill website, ensuring seamless
+              and equitable distribution of costs among friends and groups.
+            </p>
             <div className="pro-btns">
               <NavLink
                 role="link"
@@ -48,7 +52,12 @@ const ProjectCard = () => {
           <img src={photo2} alt="site1" />
           <h2 className="project-title">MaxShaurma</h2>
           <div className="pro-details">
-            <p>This is Text</p>
+            <p>
+              Embark on a tantalizing culinary journey as our shawarma site
+              introduces you to a delectable array of perfectly seasoned,
+              mouthwatering wraps and flavors that transport you to the heart of
+              Middle Eastern cuisine.
+            </p>
             <div className="pro-btns">
               <NavLink
                 role="link"
@@ -74,7 +83,12 @@ const ProjectCard = () => {
           <img src={photo3} alt="site1" />
           <h2 className="project-title">Movies</h2>
           <div className="pro-details">
-            <p>This is Text</p>
+            <p>
+              Immerse yourself in the world of cinema and engage with your
+              favorite films on a deeper level through our movie app, empowering
+              you to rate and score movies while connecting with a community of
+              fellow cinephiles.This is Text
+            </p>
             <div className="pro-btns">
               <NavLink
                 role="link"
@@ -102,7 +116,11 @@ const ProjectCard = () => {
           <img src={photo4} alt="site1" />
           <h2 className="project-title">Travel</h2>
           <div className="pro-details">
-            <p>This is Text</p>
+            <p>
+              Explore the breathtaking diversity of our planet through an
+              interactive world map site that offers a captivating visual
+              journey across continents, cultures, and geographical wonders.
+            </p>
             <div className="pro-btns">
               <NavLink
                 role="link"
@@ -130,7 +148,13 @@ const ProjectCard = () => {
           <img src={photo5} alt="site1" />
           <h2 className="project-title">Dog-site</h2>
           <div className="pro-details">
-            <p>This is Text</p>
+            <p>
+              Embark on a tail-wagging adventure as our dog site celebrates the
+              boundless charm of man's best friend, offering a delightful hub
+              for canine enthusiasts to discover heartwarming stories, expert
+              care tips, and a paw-sitively adorable gallery of furry
+              companions.
+            </p>
             <div className="pro-btns">
               <NavLink
                 role="link"
