@@ -46,9 +46,9 @@ const Footer = () => {
         </div>
         <div className="right">
           <p>
-            My name is Iliko. Here is another contact details. If you have anu
-            questions send me a message and i will answer to your questions in
-            24 hours.
+            I am Iliko, and I would like to share additional contact information
+            with you. Should you have any inquiries, kindly send me a message,
+            and I shall endeavor to respond within a span of 24 hours.
           </p>
           <div className="social">
             <FaFacebook
